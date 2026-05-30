@@ -52,6 +52,7 @@ checkpoints/
 data/train/
 data/val/
 data/test/
+data/*.csv
 
 # Generated charts and images
 *.png
